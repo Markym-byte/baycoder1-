@@ -1,5 +1,4 @@
-# baycoder1-
-Portfolio & CV Website
+#Portfolio & CV Website
 
 Welcome to my personal portfolio — a snapshot of who I am, what I do, and the work I’m proud of.
 Here you’ll find my experience, education, and projects, all in one place.
